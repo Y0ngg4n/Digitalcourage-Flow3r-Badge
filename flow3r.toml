@@ -1,0 +1,12 @@
+[app]
+name = "Digitalcourage"
+menu = "Apps"
+
+[entry]
+class = "Digitalcourage"
+
+[metadata]
+author = "Yonggan"
+license = "AGPL"
+url = ""
+
